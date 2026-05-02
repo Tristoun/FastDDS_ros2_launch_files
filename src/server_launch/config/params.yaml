@@ -1,0 +1,3 @@
+network_config:
+  ip: 127.0.0.1 # Put rasp ip that is used as a server 
+  port: 11811 #Seems to be default port don't sure if change it is a good idea XD
